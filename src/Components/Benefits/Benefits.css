@@ -87,7 +87,7 @@ margin: 2rem 0px;
 margin: 2rem 0px;
  }
 .benefits-heading{
-   font-size: 2.5rem;
+   font-size: 1.5rem;
    font-weight: 600;
    text-align: center;
    margin-bottom: 40px;
@@ -108,14 +108,14 @@ margin: 2rem 0px;
     gap: 10px;
 }
 .benefit-icon{
-    width: 40px;
+    width: 35px;
 
-    height: 40px;
+    height: 35px;
     color: #767676;
 }
 
 .benefit-title{
-    font-size: 1rem;
+    font-size: 0.8rem;
     text-align: center;
     font-weight: 600;
 }

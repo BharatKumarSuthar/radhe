@@ -107,7 +107,7 @@
 .creator a{
     color: black;
 }
-@media (max-width:768px) {
+@media (max-width:1024px) {
 
      .footer{
         flex-direction: column;
@@ -153,8 +153,8 @@
 
 
 .scrollToTop-btn{
-    height: 40px;
-    width: 40px;
+    height: 50px;
+    width: 50px;
   
 }
 
@@ -168,59 +168,3 @@
 }
 
 
-@media (max-width:1024px){
-     .footer{
-        flex-direction: row;
-        height: 30vh;
-            padding: 0.5rem 0.4rem;
-     }
-     .footer-logo-container{
-    width:200px ;
-    height: 150px;
-    margin-right: 0rem;
-}
-
-.footer-details-wrapper{
-    flex-direction: row;
-     padding-left: 1rem;
-     padding-top: 3rem;
-     height: 100%;
-     justify-content: space-evenly;
-    
-}
-
-.details-container-heading{
- font-size: 1rem;   
-}
-
-
-.details{
-
-    margin-bottom: 5px;
-  
-}
-.details-icon{
-    width:18px;
-    height:18px;
-    margin-right: 5px;
-}
-.details-text{
-   
-    font-size: 0.8rem;
-   
-
-}
-
-
-.scrollToTop-btn{
-    height: 50px;
-    width: 50px;
-  
-}
-
-.scrollToTop-icon{
-    width: 20px;
-    height: 20px;
-  animation: goUp 1s infinite alternate ease-in-out ;
-}
-}
